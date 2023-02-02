@@ -1,5 +1,6 @@
-package com.example.conditional_application;
+package com.example.conditional_application.controller;
 
+import com.example.conditional_application.service.SystemProfile;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
